@@ -1,7 +1,7 @@
 # Sweaty's Sweatpants Shop
 
 ## Description:
-The objective of the group project was to create a fictitious e-commerce site for a company that sells sweatpants. The project used HTML, CSS, JavaScript, and Bootstrap. 
+The objective of the group project was to create a fictitious e-commerce site for a company that sells sweatpants. This was built as a group project assignment during my enrollment at [Nashville Software School](http://nashvillesoftwareschool.com/) while we were learning to use HTML, CSS, JavaScript, and Bootstrap. 
 
 ## Features:
 * Responsive design
